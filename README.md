@@ -23,7 +23,7 @@ Numpy
 
 ### Modules to Website
 
-![](../.gitbook/assets/modulestowebsite.PNG)
+![](./.gitbook/assets/modulestowebsite.PNG)
 
 ### Zero to Deployment
 
