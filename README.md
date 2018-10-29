@@ -27,11 +27,11 @@ Numpy
 
 ### Zero to Deployment
 
-![](../.gitbook/assets/zerotodeployment.PNG)
+![](./.gitbook/assets/zerotodeployment.PNG)
 
 ### Modules Design
 
-![](../.gitbook/assets/modelsdesign.PNG)
+![](./.gitbook/assets/modelsdesign.PNG)
 
 ### Functional Summary
 
