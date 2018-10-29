@@ -1,4 +1,4 @@
-# Introduction
+# 0. Project Introduction
 
 ## Online Learning platform
 
@@ -6,20 +6,9 @@ Python: 3.6.5
 
 Django: 2.1.2
 
-## Spring Boot Project 
-
-Spring Boot 2.0.X
-
-Spring Cloud
-
 ## Search Engine
 
 Numpy
-
-
-# 0. Project Introduction
-
-## Project Summary
 
 ### Modules to Website
 
