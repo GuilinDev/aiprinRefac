@@ -4,7 +4,7 @@
 
 Python: 3.6.5
 
-Django: 2.1.2
+Django: 2.0.2
 
 ## Search Engine
 
